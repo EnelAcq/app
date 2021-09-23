@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<HTML>
-    <HEAD>
-        <STYLE type="text/css">
-        
-         .p
+.p
          {
             position: relative;
             top: 50px;
@@ -74,20 +69,3 @@
              color:firebrick;
          }
     
-        </STYLE>
-    </HEAD>
-    <BODY>
-            <h1 class="p">HAVENPRO'</h1>
-                <p class="cap">Your ideal partner to make a home!</p></br></br></br></br>
-                <a class="hyp" href="Login.htm">Login</a></br></br></br>
-                <a class="hyp" href="Register.htm" style="left:490px">Register Now!</a>
-                <footer>
-                    <a class="thyp" href="About.htm">About Us</a>
-                    <a class="thyp" href="Under Construction.htm">Terms And Conditions</a>
-                    <a class="thyp" href="Under Construction.htm">Privacy Policy</a>
-                </footer>
-            
-            
-    </BODY>
-
-</HTML>

@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<HTML>
-    <HEAD>
-    <STYLE type="text/css">
-        .p
+.p
         {
            
            font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
@@ -88,25 +84,3 @@
         {
             color:firebrick;
         }
-    </STYLE>
-    </HEAD>
-    <BODY>
-            <h1 class="p">HAVENPRO'</h1>
-            <p style="font-size: 50px;font-weight: bold;">Sign In</p>
-            <form name="LoginForm" id="F1" action="Success.htm">
-                <Input type="text" name="eop" size="20" maxlength="50" placeholder="Email or phone" class="p2"><br><br><br>
-                    <Input type="password" name="pword" size="20" maxlength="50" placeholder="Password" class="p2"> <br><br><br>
-                        <Button id="Button" type="submit" ><span class="p2" style="color: white;">Sign In</span></Button><br><br><br>
-                        <p>New to HavenPro?  <a href="Register.htm">Register Now!</a></p>
-                        <br><br>
-                        <br>
-                <footer>
-                    <a class="thyp" href="About.htm">About Us</a>
-                    <a class="thyp" href="Under Construction.htm">Terms And Conditions</a>
-                    <a class="thyp" href="Under Construction.htm">Privacy Policy</a>
-                </footer>
-                        
-            </form>
-
-    </BODY>
-</HTML>
